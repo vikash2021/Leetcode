@@ -1,5 +1,5 @@
 /*
-iven an array of strings, group anagrams together.
+Given an array of strings, group anagrams together.
 
 Example:
 
